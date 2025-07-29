@@ -22,6 +22,7 @@ The dataset used here is easy to understand and very beginner-friendly, making i
 My favorite part was using the Key Influencers visual, a built-in AI feature in Power BI.
 With just the right drag-and-drop of columns, it automatically analyzes what influences a certain outcome — like which products most impact a specific category. This can help businesses focus their strategy on those products!
 
-🙌 Feel Free to Explore
+## 🙌 Feel Free to Explore
+
 You’re welcome to explore, download, or use this dashboard for learning purposes.
 If you have any questions or feedback, feel free to connect and ask!
